@@ -1,0 +1,4 @@
+2 hours - Watched Youtube Video for 2 hours
+2 hours - Setup EC2 to GitHub from the videos
+30 Mins - Coding Practise
+30 Mins - Linux Practise
